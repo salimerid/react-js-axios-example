@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.login-container {
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  margin-top: 60px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 30%;
+  background: #eee;
+}
+.story{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: justify;
+}
+.pagination-div{
+  text-align: center;
+}
+.story-header{
+  margin-top: -12px;
+  text-align: center;
+}
+.req-link{
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+footer {
+  background: #eee;
+  padding: 5px;
+  margin: 10px 0;
+  text-align: center;
+}
